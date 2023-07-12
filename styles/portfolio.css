@@ -71,28 +71,30 @@ color: white;
  }
  .about-info-container{
     display: flex;
-    justify-content: space-aroundS;
+    justify-content: space-around;
  }
  .about-info{
     align-items: center;
  }
  main{
+    
+    margin: auto;
     max-width: 1140px;
  }
  .about
  {  align-content: center;
     padding: 130px;
-    margin: 130px 0px; 
+    margin: 130px 0; 
     border-radius: 10px;
     background: #FD6E0A;
  }
  .section-title{
     color: #181818;
-    text-align:center ;
-    font: size 35px; ;
-    font-weight:700 ;
+    text-align: center;
+    font-size:  35px; 
+    font-weight: 700;
  }
- .section-description{
+ .section-description {
     
     color: #757575;
     text-align: center;
