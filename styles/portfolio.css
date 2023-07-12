@@ -101,3 +101,10 @@ color: white;
     font-size: 18px;
                 
  }
+ #what-i-do-description{
+   padding: 30px 30px;
+ }
+ 
+.skill-container{
+   display: flex;
+}
