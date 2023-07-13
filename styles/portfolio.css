@@ -129,3 +129,8 @@ color: white;
    text-align: center;
    margin: 50px;
 }
+footer{
+   display: flex;
+   background: #FFF8F3;
+   padding: 130px 230px;
+}
