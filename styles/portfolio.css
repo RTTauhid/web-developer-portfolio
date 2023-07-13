@@ -131,6 +131,18 @@ color: white;
 }
 footer{
    display: flex;
+   gap: 100px;
    background: #FFF8F3;
    padding: 130px 230px;
+}
+.footer-column{
+   width: 50%;
+
+}
+.contact input, textarea{
+   display: block;
+   margin-bottom: 25px;
+   padding:  18px 35px;
+   background-color: antiquewhite;
+
 }
